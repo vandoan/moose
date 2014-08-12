@@ -25,11 +25,3 @@
 //= require jquery/jquery.elastislide
 //= require jquery/jquery.tmpl.min
 
-
-/*
- *= require gallery/responsive/elastislide
- *= require gallery/responsive
- *= require gallery/slideshow
- *= require gallery/galleria/classic
- *= require gallery/touch_touch
-*/
